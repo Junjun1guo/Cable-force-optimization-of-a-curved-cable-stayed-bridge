@@ -1,4 +1,10 @@
 #-*-coding: UTF-8-*-
+################################################################################
+#  Author: Junjun Guo
+#  E-mail: guojj@tongji.edu.cn/guojj_ce@163.com
+#  Date: 20/03/2019
+#  Environment: Successfully excucted in python 2.7
+################################################################################
 import numpy as np
 import matplotlib.pyplot as plt
 from CoordinateTransform import *
