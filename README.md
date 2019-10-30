@@ -2,7 +2,7 @@ Cable-force-optimization-of-a-curved-cable-stayed-bridge
 --------------------------------------------------------
 Cable force optimization of a curved cable-stayed bridge with combined simulated annealing 
 
-cite: Guo J, Yuan W, Dang X, et al. Cable force optimization of a curved cable-stayed bridge with combined simulated annealing method and cubic B-Spline interpolation curves[J]. Engineering Structures, 2019, 201: 109813.
+# Guo J, Yuan W, Dang X, et al. Cable force optimization of a curved cable-stayed bridge with combined simulated annealing method and cubic B-Spline interpolation curves[J]. Engineering Structures, 2019, 201: 109813.
 [downLoadPDF](https://www.sciencedirect.com/science/article/pii/S0141029619311046?via%3Dihub)
 
 * [SimulatedAnnealing.py](#SimulatedAnnealingpy)
